@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal-00923
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Git, HTML
+- 🌱 I’m currently learning Git & Github, HTML
 - 💞️ I’m looking to collaborate on Web Projects
 
 <!---
